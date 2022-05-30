@@ -83,8 +83,6 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 Tasneem Alzahrani - [@__Tasn](https://twitter.com/__tasn) - TasneemAliAlzahrani@outlook.com
 
-Project Link: [https://github.com/TasnimAlzahrani/Rihla](https://github.com/TasnimAlzahrani/Rihla)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
